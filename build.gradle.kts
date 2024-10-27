@@ -7,7 +7,7 @@ plugins {
   id("xyz.jpenilla.resource-factory-bukkit-convention") version "1.1.1" // Generates plugin.yml based on the Gradle config
 }
 
-group = "org.esoteric"
+group = "foundation.esoteric"
 version = "0.1.0"
 description = "The quality of life features of the survival gamemode on The Slimy Swamp."
 
@@ -34,10 +34,10 @@ tasks {
 bukkitPluginYaml {
     name = "TSSSurvivalQOL"
     description = project.description
-    authors.addAll("Esoteric Organisation", "rolyPolyVole", "Esoteric Enderman")
+    authors.addAll("Esoteric Foundation", "rolyPolyVole", "Esoteric Enderman")
 
     version = project.version.toString()
     apiVersion = "1.21"
-    main = "org.esoteric.tss.minecraft.plugins.survival.qol.TSSSurvivalQOLPlugin"
+    main = "foundation.esoteric.tss.minecraft.plugins.survival.qol.TSSSurvivalQOLPlugin"
     load = BukkitPluginYaml.PluginLoadOrder.STARTUP
 }

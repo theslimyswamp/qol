@@ -1,4 +1,4 @@
-package org.esoteric.tss.minecraft.plugins.survival.qol;
+package foundation.esoteric.tss.minecraft.plugins.survival.qol;
 
 import net.kyori.adventure.text.Component;
 import org.bukkit.Bukkit;
