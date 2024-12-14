@@ -1,8 +1,8 @@
 # TSS Survival QOL Plugin
 
-> The quality of life features of the survival gamemode on [The Slimy Swamp](https://github.com/TheSlimySwamp/).
+[![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
 
-This project has been abandoned.
+> The quality of life features of the survival gamemode on [The Slimy Swamp](https://github.com/TheSlimySwamp/).
 
 ## License
 
