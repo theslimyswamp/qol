@@ -6,9 +6,14 @@ bin/
 
 # Compiled files
 build/
+*.jar
 
 # IntelliJ files
 .idea
 
 # Run-paper
 run
+
+# Gradle wrapper
+gradlew
+gradlew.bat
