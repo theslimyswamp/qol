@@ -32,7 +32,7 @@ tasks {
 }
 
 bukkitPluginYaml {
-    name = "TSSSurvivalQOL"
+    name = "QOL"
     description = project.description
     authors.addAll("Esoteric Foundation", "rolyPolyVole", "Esoteric Enderman")
 
