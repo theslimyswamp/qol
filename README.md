@@ -1,6 +1,6 @@
 # The Slimy Swamp QOL
 
-[![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
+[![Project status: abandoned](./assets/images/badges/status.svg)](./)
 
 > The quality of life features of the survival gamemode on [The Slimy Swamp](https://github.com/TheSlimySwamp/).
 
