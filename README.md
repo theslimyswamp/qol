@@ -1,4 +1,4 @@
-# TSS Survival QOL Plugin
+# The Slimy Swamp QOL
 
 [![Project Status: Abandoned](./assets/images/badges/status.svg)](./)
 
