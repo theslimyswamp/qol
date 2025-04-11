@@ -1,4 +1,4 @@
-package foundation.esoteric.tss.minecraft.plugins.survival.qol;
+package foundation.esoteric.tss.minecraft.plugins.qol;
 
 import io.papermc.paper.event.entity.EntityLoadCrossbowEvent;
 import net.kyori.adventure.text.Component;

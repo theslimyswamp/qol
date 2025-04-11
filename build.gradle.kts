@@ -38,6 +38,6 @@ bukkitPluginYaml {
 
     version = project.version.toString()
     apiVersion = "1.21"
-    main = "foundation.esoteric.tss.minecraft.plugins.survival.qol.TSSSurvivalQOLPlugin"
+    main = "foundation.esoteric.tss.minecraft.plugins.qol.TSSSurvivalQOLPlugin"
     load = BukkitPluginYaml.PluginLoadOrder.STARTUP
 }
